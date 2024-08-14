@@ -21,4 +21,3 @@ s_solution_case2 = sp.solve(equation_case2, s)
 
 print("Solution for Case 1 (expr >= 0):", s_solution_case1)
 print("Solution for Case 2 (expr < 0):", s_solution_case2)
-
